@@ -1,6 +1,5 @@
 from PyQt6.QtWidgets import *
 from gui2 import *
-from votinglogic import *
 import csv
 
 class GuiLogic(QMainWindow, Ui_VoteWindow):
